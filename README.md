@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040343
+# Name:Swetha A
+# Date:05/03/2025
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![WhatsApp Image 2025-04-09 at 13 32 12_e86e1887](https://github.com/user-attachments/assets/84381d5b-de76-45ac-b148-68447e4c1eb7)
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![WhatsApp Image 2025-04-09 at 13 32 12_f18a72f5](https://github.com/user-attachments/assets/1338c90d-2ff9-4058-89f7-de4184d92e4c)
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![WhatsApp Image 2025-04-09 at 13 32 13_9951c43b](https://github.com/user-attachments/assets/cc1b1165-2c13-4f9e-bf3d-50b4970772ec)
 
 
 
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![WhatsApp Image 2025-04-09 at 13 32 13_8c70ce4e](https://github.com/user-attachments/assets/0ceb4977-f8ca-43e0-9f36-651fc435799c)
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![WhatsApp Image 2025-04-09 at 13 32 12_12d3cae6](https://github.com/user-attachments/assets/d516c6d2-261d-4778-a379-562294e084c2)
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![WhatsApp Image 2025-04-09 at 13 32 13_9fb2d99e](https://github.com/user-attachments/assets/f079fa33-7dfe-450b-9c51-9d56634cc207)
 
 
 
